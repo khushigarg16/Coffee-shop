@@ -1,0 +1,374 @@
+.main{
+    background: url(../images/coffeenew.jpg)
+    no-repeat center center fixed;
+    background-size: cover;
+    height: 600px;
+}
+
+.navbar-inverse{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-header .navbar-brand{
+    font-size: 25px;
+    color: rgb(226,226,226);
+    padding-top: 25px;
+    padding-left: 0;
+    font-family: 'Pacifico', cursive;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+    color: rgb(141,141,141);
+    padding: 25px;
+    padding-left: 60px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover{
+    color: sandybrown;;
+}
+
+.main h2{
+    margin: 0;
+    padding: 0;
+    padding-top: 200px;
+    font-family: 'Lobster', cursive;
+    font-style: italic;
+    text-align: center;
+    color: saddlebrown;
+}
+
+.main h1{
+    font-size: 4.2em;
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    color: saddlebrown;
+}
+
+.btn{
+    background-color: rgb(208,163,128);
+    color: saddlebrown;
+    font-family: 'Libre Baskerville', sans-serif;
+    font-style: oblique;
+    padding: 10px 30px;
+    margin-left: 485px;
+}
+
+
+.services{
+    background-color: aliceblue;
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+/*    margin-top: 95px;*/
+    height: 700px;
+    font
+}
+
+.htop{
+    padding-top: 110px;
+}
+
+.services h1{
+    margin: 0;
+/*    padding: 0;*/
+}
+
+#pp{
+    margin-top: 10px;
+}
+
+.serv{
+    margin-top: 90px;
+}
+
+.clr{
+    color: brown;
+}
+
+.portfolio{
+    text-align: center;
+    background-color: rgb(191,191,191);
+    height: 950px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Bitter', serif;
+}
+
+.portfolio h1{
+    margin: 0;
+/*    padding: 0;*/
+}
+
+#ppp{
+    margin-top: 10px;
+}
+
+.port{
+    margin-top: 60px;
+}
+
+.my{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.port{
+    margin-left: 230px;
+}
+
+
+.port .col-lg-4{
+    width: 300px;
+    margin-left: 20px;
+}
+
+.col-lg-4 p{
+    margin-top: 10px;
+}
+
+#yy{
+    background-color: aliceblue;
+    width: 270px;
+}
+
+#xx{
+    background-color: aliceblue;
+    width: 270p;
+}
+
+#zz{
+    background-color: aliceblue;
+    width: 270p;
+}
+
+.porto{
+    margin-top: 10px;
+}
+
+.about{
+    
+    height: 1300px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.about h1{
+    margin: 0;
+/*    padding: 0;*/
+}
+
+#aaa{
+    margin-top: 10px;
+}
+
+.round{
+    border-radius: 50%;
+    padding: 1px;
+    border: 3px solid transparent;
+    background-color: darkgrey;
+}
+
+.abtClr{
+    color: gainsboro;
+}
+
+#abt1{
+    margin-top: 90px;
+}
+
+.ab1{
+    text-align: right;
+    padding-right: 0;
+    padding-left: 250px
+}
+
+.a1{
+    padding-right: 578px;
+}
+
+#abt2{
+    margin-top: 90px;
+}
+
+.ab2{
+    text-align: left;
+    padding-left: 0;
+    padding-right: 250px;
+}
+
+.a2{
+    padding-left: 558px;
+}
+
+#abt3{
+    margin-top: 90px;
+}
+
+.ab3{
+    text-align: right;
+    padding-right: 0;
+    padding-left: 250px
+}
+
+.a3{
+    padding-right: 578px;
+}
+
+#abt4{
+    margin-top: 90px;
+}
+
+.ab4{
+    text-align: left;
+    padding-left: 0;
+    padding-right: 250px;
+}
+
+.a4{
+    padding-left: 558px;
+}
+
+#abt5{
+    margin-top: 90px;
+}
+
+.ab5{
+    text-align: right;
+    padding-right: 0;
+    padding-left: 250px
+}
+
+.a5{
+    padding-right: 578px;
+}
+
+
+.team{
+    height: 800px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: beige;
+    font-family: 'Domine', serif;
+}
+
+.tmIcon{
+    color: rgb(33,33,33);
+}
+
+.team h1{
+    margin: 0;
+/*    padding: 0;*/
+}
+
+#para{
+    margin-top: 12px;
+}
+
+.mem{
+    margin-top: 100px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.icon{
+    padding: 0 3px;
+}
+
+#pppp{
+    margin-top: 25px;
+}
+
+.quote{
+    height: 70px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    color: saddlebrown;
+    font-family: 'Acme', sans-serif;
+}
+
+.quote h1{
+    margin: 0;
+    padding: 0;
+}
+
+.contact{
+    height: 600px;
+    margin: 0;
+    padding: 0;
+    background: url("../images/bgimage.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+}
+
+#chtop{
+    padding-top: 80px;
+}
+
+.contact h1{
+    margin: 0;
+/*    padding: 0;*/
+    font-family: 'Hind Vadodara', sans-serif;
+}
+
+.left{
+    text-align: right;
+}
+
+.right{
+    text-align: left;
+}
+
+.formy{
+    margin-top: 80px;
+    color: black;
+}
+
+.uinput{
+    padding: 10px;
+    margin: 6px;
+}
+
+
+
+.submitBtn{
+    font-family: 'Libre Baskerville', serif;
+    font-style: oblique;
+    padding: 10px 30px;
+    color: white;
+    background-color: #f62;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+.ftLeft{
+    padding-left: 90px;
+    padding-top: 5px;
+}
+
+.ftMid{
+    text-align: center;
+}
+
+.ourForm button:hover{
+    color: black;
+    box-shadow: -1px 1px #fff;
+}
+
+.ftRgt{
+    padding-left: 250px;
+    padding-top: 5px;
+}
+
+.ftrIcon{
+    color: rgb(33,33,33);
+}
